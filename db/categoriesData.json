@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Outdoors"
+  },
+  {
+    "id": 1,
+    "name": "Plants"
+  },
+  {
+    "id": 2,
+    "name": "Beauty"
+  },
+  {
+    "id": 3,
+    "name": "Garden"
+  },
+  {
+    "id": 4,
+    "name": "Music"
+  },
+  {
+    "id": 5,
+    "name": "Games"
+  },
+  {
+    "id": 6,
+    "name": "Sport"
+  },
+  {
+    "id": 7,
+    "name": "Movies"
+  },
+  {
+    "id": 8,
+    "name": "Electronics"
+  },
+  {
+    "id": 9,
+    "name": "Tools"
+  }
+]
